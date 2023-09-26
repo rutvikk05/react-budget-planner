@@ -1,6 +1,6 @@
 # React Budget App
 
-A cool app to track your expenses, made with React and tailwind
+A cool app to eaisly track your expenses!
 
 User can - 
 
