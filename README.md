@@ -1,6 +1,6 @@
 # React Budget App
 
-A cool app to eaisly track your expenses!
+A cool app to easily track your expenses!
 
 User can - 
 
